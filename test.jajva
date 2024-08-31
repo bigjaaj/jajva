@@ -1,2 +1,4 @@
-public void bob() { prnt("bobob...!!");}
-public void jaj() {prnt("le grand jaaj est inevitable");"}
+pub String jooj;
+public void bob() {prnt("bobob...!!");}
+alias eng le_grand_jaaj
+public void jaj() {prnt("eng est inevitable");"}
